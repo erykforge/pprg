@@ -1,0 +1,14 @@
+C:\Users\s37332\Desktop\tydzień 3\projekt6\bin\Debug\net10.0\Projekt6.exe
+C:\Users\s37332\Desktop\tydzień 3\projekt6\bin\Debug\net10.0\Projekt6.deps.json
+C:\Users\s37332\Desktop\tydzień 3\projekt6\bin\Debug\net10.0\Projekt6.runtimeconfig.json
+C:\Users\s37332\Desktop\tydzień 3\projekt6\bin\Debug\net10.0\Projekt6.dll
+C:\Users\s37332\Desktop\tydzień 3\projekt6\bin\Debug\net10.0\Projekt6.pdb
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.AssemblyInfoInputs.cache
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.AssemblyInfo.cs
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.csproj.CoreCompileInputs.cache
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.dll
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\refint\Projekt6.dll
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.pdb
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\Projekt6.genruntimeconfig.cache
+C:\Users\s37332\Desktop\tydzień 3\projekt6\obj\Debug\net10.0\ref\Projekt6.dll
