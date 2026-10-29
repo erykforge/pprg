@@ -1,0 +1,14 @@
+C:\Users\s37332\Desktop\tydzień5\projekt9\bin\Debug\net10.0\projekt9.exe
+C:\Users\s37332\Desktop\tydzień5\projekt9\bin\Debug\net10.0\projekt9.deps.json
+C:\Users\s37332\Desktop\tydzień5\projekt9\bin\Debug\net10.0\projekt9.runtimeconfig.json
+C:\Users\s37332\Desktop\tydzień5\projekt9\bin\Debug\net10.0\projekt9.dll
+C:\Users\s37332\Desktop\tydzień5\projekt9\bin\Debug\net10.0\projekt9.pdb
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.AssemblyInfoInputs.cache
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.AssemblyInfo.cs
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.csproj.CoreCompileInputs.cache
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.dll
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\refint\projekt9.dll
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.pdb
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\projekt9.genruntimeconfig.cache
+C:\Users\s37332\Desktop\tydzień5\projekt9\obj\Debug\net10.0\ref\projekt9.dll
