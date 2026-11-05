@@ -1,0 +1,14 @@
+C:\Users\s37332\Desktop\tydzien6\projekt7\bin\Debug\net10.0\projekt7.exe
+C:\Users\s37332\Desktop\tydzien6\projekt7\bin\Debug\net10.0\projekt7.deps.json
+C:\Users\s37332\Desktop\tydzien6\projekt7\bin\Debug\net10.0\projekt7.runtimeconfig.json
+C:\Users\s37332\Desktop\tydzien6\projekt7\bin\Debug\net10.0\projekt7.dll
+C:\Users\s37332\Desktop\tydzien6\projekt7\bin\Debug\net10.0\projekt7.pdb
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.AssemblyInfoInputs.cache
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.AssemblyInfo.cs
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.csproj.CoreCompileInputs.cache
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.dll
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\refint\projekt7.dll
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.pdb
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\projekt7.genruntimeconfig.cache
+C:\Users\s37332\Desktop\tydzien6\projekt7\obj\Debug\net10.0\ref\projekt7.dll
