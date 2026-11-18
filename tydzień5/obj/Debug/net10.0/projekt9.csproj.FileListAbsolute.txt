@@ -1,0 +1,14 @@
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\bin\Debug\net10.0\projekt9.exe
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\bin\Debug\net10.0\projekt9.deps.json
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\bin\Debug\net10.0\projekt9.runtimeconfig.json
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\bin\Debug\net10.0\projekt9.dll
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\bin\Debug\net10.0\projekt9.pdb
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.AssemblyInfoInputs.cache
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.AssemblyInfo.cs
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.csproj.CoreCompileInputs.cache
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.dll
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\refint\projekt9.dll
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.pdb
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\projekt9.genruntimeconfig.cache
+C:\Users\eryk6\Desktop\materiały studia\pprg\tydzień5\obj\Debug\net10.0\ref\projekt9.dll
