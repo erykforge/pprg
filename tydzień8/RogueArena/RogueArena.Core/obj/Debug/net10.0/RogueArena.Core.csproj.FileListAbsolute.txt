@@ -1,0 +1,11 @@
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\bin\Debug\net10.0\RogueArena.Core.deps.json
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\bin\Debug\net10.0\RogueArena.Core.dll
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\bin\Debug\net10.0\RogueArena.Core.pdb
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.AssemblyInfoInputs.cache
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.AssemblyInfo.cs
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.csproj.CoreCompileInputs.cache
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.dll
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\refint\RogueArena.Core.dll
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.pdb
+C:\Users\s37332\Desktop\RogueArena\RogueArena.Core\obj\Debug\net10.0\ref\RogueArena.Core.dll
